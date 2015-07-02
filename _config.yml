@@ -1,9 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
+title: Bow Design
+email: hello@xinyudesign.com
 description: My simple blog.
-baseurl: ""
-url: ""
+baseurl: "/bowdesign"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
